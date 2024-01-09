@@ -4,6 +4,10 @@
   color: #333;
   font-family: Lato, sans-serif;
 }
+.hide {
+  visibility: hidden;
+  position: absolute;
+}
 .header {
   width: 500px;
   margin: 0 auto;
